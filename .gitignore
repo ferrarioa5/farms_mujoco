@@ -1,6 +1,5 @@
 build
 ducks/_build
-.eggs/
 *~
 *.directory
 bin/*
